@@ -24,8 +24,8 @@ jobs:
     - run: pwd
     - name: Remove destination folder       
       run: | 
-            rm -rf ./../../../../../../var/www/journey/*
+            rm -rf ../../../../var/www/journey/*
             
     - name: Move dist folder       
       run: | 
-            mv ./* ./../../../../../../var/www/journey/
+            mv ./* ../../../../var/www/journey/
