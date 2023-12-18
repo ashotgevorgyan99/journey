@@ -486,6 +486,28 @@ footer p { color: white; }
 
 .tellepon{
     margin-right:1200px ;
+    font-size: medium;
+    color: #056146;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        
+}
+@media screen and (max-width: 1024px) {
+    .tellepon{
+        margin-right:800px ;
+        font-size: medium;
+        color: #056146;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    } 
+}
+@media screen and (max-width: 768px) {
+    .tellepon{
+        margin-right:400px ;
+        font-size: medium;
+        color: #056146;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+    }
+    
 }
 
 .icone{
