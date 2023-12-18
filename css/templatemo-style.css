@@ -449,10 +449,7 @@ footer a { color: #fff; }
 
 footer a:hover { color: #900; }
 
-footer p {  margin-right:1200px ;
-    font-size: medium;
-    color: #056146;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+footer p {color: white;}
 
 .tm-footer-text-highlight {
     color: white;
